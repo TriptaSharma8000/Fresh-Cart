@@ -3,12 +3,12 @@
 FreshCart is a MERN stack-based e-commerce platform offering product listings, cart management, user authentication, and secure checkout.
 
 ## 🚀 Features
-- User Registration & Login (JWT-based)
+- User Registration & Login
 - Product Listings with Filters
 - Cart Management
 - Secure Checkout
 - Responsive UI
-- Admin Dashboard (Optional)
+- Admin Dashboard
 
 ## 🛠️ Tech Stack
 - Frontend: React.js, Tailwind CSS
@@ -18,10 +18,7 @@ FreshCart is a MERN stack-based e-commerce platform offering product listings, c
 - Version Control: Git & GitHub
 
 ## 🌐 Live Demo
-🔗 [Live Link Here](https://your-netlify-link.com)
-
-## 📸 Screenshots
-*(Add UI screenshots here if available)*
+🔗 
 
 ## 📁 Folder Structure
 - `/client`: React Frontend
