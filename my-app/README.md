@@ -1,12 +1,45 @@
-# React + Vite
+# FreshCart - E-commerce Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FreshCart is a MERN stack-based e-commerce platform offering product listings, cart management, user authentication, and secure checkout.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- User Registration & Login (JWT-based)
+- Product Listings with Filters
+- Cart Management
+- Secure Checkout
+- Responsive UI
+- Admin Dashboard (Optional)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Auth: JWT, bcrypt
+- Version Control: Git & GitHub
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
+🔗 [Live Link Here](https://your-netlify-link.com)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+*(Add UI screenshots here if available)*
+
+## 📁 Folder Structure
+- `/client`: React Frontend
+- `/server`: Express + MongoDB Backend
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/TriptaSharma8000/fresh-cart.git
+cd fresh-cart
+
+# Backend setup
+cd server
+npm install
+npm start
+
+# Frontend setup
+cd ../client
+npm install
+npm start
